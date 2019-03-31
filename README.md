@@ -1,2 +1,1 @@
-# elm-guide
-Official Elm Guide Tutorial
+# Study Elm with Official Guide
