@@ -22,6 +22,7 @@ init =
 
 
 -- UPDATE
+
 type Msg = Change String
 
 update : Msg -> Model -> Model
@@ -32,6 +33,7 @@ update msg model =
 
 
 -- VIEW
+
 view : Model -> Html Msg
 view model =
   div []
